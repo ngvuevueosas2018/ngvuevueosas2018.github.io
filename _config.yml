@@ -1,4 +1,4 @@
-title: "Zen | Blogspot Template Creator | Web Dev | Android Dev | 081545143654"
+title: "Kajian"
 
 permalink: /:year/:month/:day/:title/
 
@@ -11,16 +11,6 @@ plugins:
   
 name: Zen
 description: Developer
-url: http://blog2.muhammadzaini.com
+url: http://ngvuevueosas2018.github.io
 
 timezone: Asia/Makassar
-
-komunitas:
-  -
-    gambar: /gambar/komunitas/blog.jpg
-    link: https://chat.whatsapp.com/KBzZzO25l1mLoEatsjHWAw
-    
-menu:
-  -
-    nama: Portofolio
-    link: http://muhammadzaini.com

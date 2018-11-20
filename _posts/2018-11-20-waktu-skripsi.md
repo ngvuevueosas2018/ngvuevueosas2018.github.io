@@ -5,4 +5,4 @@ date: 2018-11-20 05:59:00
 layout: post
 ---
 
-Kayaknya malam deh 😮
+Kayaknya malam deh
